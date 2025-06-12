@@ -1,0 +1,16 @@
+{
+    "name": "JackyExtendedToolSet.Editor",
+    "rootNamespace": "",
+    "references": ["GUID:366ba92240b9cb24d8c71d48db0036f2"],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
