@@ -161,5 +161,10 @@ Assets/ExcelToolSetting.asset
 Assets/ExcelToolSetting.asset.meta
 
 Assets/Packages/
+Assets/Packages.meta
+Assets/Scripts/
+Assets/Scripts.meta
+Assets/SOAssets/
+Assets/SOAssets.meta
 
 Excels/
